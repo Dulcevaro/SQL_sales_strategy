@@ -1,3 +1,5 @@
+#  Here is the average amount paid by the top 5 customers per Country using a SUBQUERY
+
 SELECT D.country, COUNT(DISTINCT A.customer_id) as all_customers, COUNT (DISTINCT TOP_5.customer_id) as top_customer_count
 FROM customer A
 INNER JOIN address B ON A.address_id = B.address_id
