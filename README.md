@@ -1,7 +1,7 @@
 # SQL_sales_strategy
 ## **GOAL**
 
-Instacart is an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns. The objective was to derive insights and suggest strategies for better segmentation based on the provided criteria.
+Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive. 
 
 ## **DATA**
 <p>The data used consituted of the following tables:</p>
